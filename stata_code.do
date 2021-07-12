@@ -13,7 +13,7 @@ clear all
 *	- install preferred graph scheme:
 net install gr0002_3, from("http://www.stata-journal.com/software/sj4-3") replace
 *	- fill out the path where the figure will be saved:
-global fig_path = "/Users/atheloudis/Dropbox/_Archive/Teaching/Tilburg/Microeconometrics MSc/2021-2022/Lecture Notes/Part I/Lecture 5/figures"
+global fig_path = ""
 
 
 /*	========================================================================  */
